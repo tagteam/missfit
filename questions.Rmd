@@ -1,0 +1,4 @@
+# Q1 Can the indicator model/pattern submodel be worse than multiple imputation?
+
+
+# Q2 How do we deal with the strong conclusion of Mercaldo & Blume
